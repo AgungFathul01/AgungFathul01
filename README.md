@@ -1,18 +1,15 @@
 <h1 align="center">Hi 👋, I'm Agung Fathul Muhtadin</h1>
 <h3 align="center">A passionate frontend developer and Project Manager</h3>
 
-- 🔭 I’m currently working on **CEPATga Application for PLN Jambi**
+- 🔭 I’m currently working on **Game Called, Wahana Nusantara**
 
 - 🌱 I’m currently learning **Game Design and Development with Unity 2020 Specialization**
 
-- 👯 I’m looking to collaborate on **SPOT Notification for mobile**
-
-- 🤝 I’m looking for help with **Travel management application**
+- 👯 We, as the KOMPETEGRAM Community, are currently working on the **SPOT Notification for mobile.**
 
 - 👨‍💻 All of my projects are available at [https://agungfathulportofolio.netlify.app/](https://agungfathulportofolio.netlify.app/)
 
-- 💬 Ask me about **UI Design, AI and Basic skill to develop an app**
-
+- 💬 Ask me anything about **game development, frameworks and foundations of game development in Unity, as well as UI/UX design and cybersecurity.**
 - 📫 How to reach me **agungfathul14@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
