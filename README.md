@@ -7,7 +7,7 @@
 
 - 👯 We, as the KOMPETEGRAM Community, are currently working on the **SPOT Notification for mobile.**
 
-- 👨‍💻 All of my projects are available at [https://agungfathulportofolio.netlify.app/](https://agungfathulportofolio.netlify.app/)
+- 👨‍💻 All of my oldest projects are available at [https://agungfathulportofolio.netlify.app/](https://agungfathulportofolio.netlify.app/)
 
 - 💬 Ask me anything about **game development, frameworks and foundations of game development in Unity, as well as UI/UX design and cybersecurity.**
 - 📫 How to reach me **agungfathul14@gmail.com**
