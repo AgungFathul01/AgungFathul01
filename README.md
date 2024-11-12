@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Agung Fathul Muhtadin</h1>
-<h3 align="center">A passionate frontend developer and Project Manager</h3>
+<h3 align="center">A passionate solo game developer and Project Manager</h3>
 
 - 🔭 I’m currently working on **Game Called, Wahana Nusantara**
 
